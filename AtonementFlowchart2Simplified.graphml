@@ -17,10 +17,10 @@
     <node id="n0">
       <data key="d6">
         <y:ShapeNode>
-          <y:Geometry height="509.5743929201632" width="459.67278824643984" x="-594.6454656939818" y="1169.797321708459"/>
+          <y:Geometry height="1801.2524190744778" width="1311.745809485777" x="-748.6313468774099" y="330.3027365293775"/>
           <y:Fill hasColor="false" transparent="false"/>
-          <y:BorderStyle color="#000000" raised="false" type="line" width="1.0"/>
-          <y:NodeLabel alignment="center" autoSizePolicy="node_size" configuration="CroppingLabel" fontFamily="Dialog" fontSize="20" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="509.5743929201632" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="bottom" visible="true" width="459.67278824643984" x="0.0" y="-1.1368683772161603E-13">God decides to 'make' Jesus 'guilty' - this also happens sometimes in human law<y:LabelModel>
+          <y:BorderStyle color="#000000" raised="false" type="dashed" width="3.0"/>
+          <y:NodeLabel alignment="center" autoSizePolicy="node_size" configuration="CroppingLabel" fontFamily="Dialog" fontSize="20" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="1801.2524190744778" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="bottom" visible="true" width="1311.745809485777" x="0.0" y="2.2737367544323206E-13">The reason why he died for us<y:LabelModel>
               <y:SmartNodeLabelModel distance="4.0"/>
             </y:LabelModel>
             <y:ModelParameter>
@@ -34,10 +34,10 @@
     <node id="n1">
       <data key="d6">
         <y:ShapeNode>
-          <y:Geometry height="1801.2524190744778" width="1311.745809485777" x="-748.6313468774099" y="330.3027365293775"/>
+          <y:Geometry height="1023.4751557785468" width="845.0184100398807" x="-628.5866076626426" y="693.6103284832222"/>
           <y:Fill hasColor="false" transparent="false"/>
-          <y:BorderStyle color="#000000" raised="false" type="line" width="1.0"/>
-          <y:NodeLabel alignment="center" autoSizePolicy="node_size" configuration="CroppingLabel" fontFamily="Dialog" fontSize="20" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="1801.2524190744778" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="bottom" visible="true" width="1311.745809485777" x="0.0" y="2.2737367544323206E-13">The reason why he died for us<y:LabelModel>
+          <y:BorderStyle color="#000000" raised="false" type="dashed" width="2.0"/>
+          <y:NodeLabel alignment="center" autoSizePolicy="node_size" configuration="CroppingLabel" fontFamily="Dialog" fontSize="20" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="1023.4751557785468" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="bottom" visible="true" width="845.0184100398807" x="0.0" y="-1.1368683772161603E-13">Sinners couldn't pay for their own sin as the punishment is too great (eternal death or destruction).  So Jesus changed places with us and chose to stand for us as our leader. He can do this as he's our creator who became human.  God also chose to accept this.  He's our lawgiver and judge after all so he can do what he wants.  Can we really show that it wrong for him to do this?<y:LabelModel>
               <y:SmartNodeLabelModel distance="4.0"/>
             </y:LabelModel>
             <y:ModelParameter>
@@ -51,10 +51,10 @@
     <node id="n2">
       <data key="d6">
         <y:ShapeNode>
-          <y:Geometry height="1023.4751557785468" width="845.0184100398807" x="-628.5866076626426" y="693.6103284832222"/>
+          <y:Geometry height="509.5743929201632" width="459.67278824643984" x="-594.6454656939818" y="1169.797321708459"/>
           <y:Fill hasColor="false" transparent="false"/>
-          <y:BorderStyle color="#000000" raised="false" type="line" width="1.0"/>
-          <y:NodeLabel alignment="center" autoSizePolicy="node_size" configuration="CroppingLabel" fontFamily="Dialog" fontSize="20" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="1023.4751557785468" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="bottom" visible="true" width="845.0184100398807" x="0.0" y="-1.1368683772161603E-13">Sinners couldn't pay for their own sin as the punishment is too great (eternal death or destruction).  So Jesus changed places with us and chose to stand for us as our leader. He can do this as he's our creator who became human.  God also chose to accept this.  He's our lawgiver and judge after all so he can do what he wants.  Can we really show that it wrong for him to do this?<y:LabelModel>
+          <y:BorderStyle color="#000000" raised="false" type="dashed" width="2.0"/>
+          <y:NodeLabel alignment="center" autoSizePolicy="node_size" configuration="CroppingLabel" fontFamily="Dialog" fontSize="20" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="509.5743929201632" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="bottom" visible="true" width="459.67278824643984" x="0.0" y="-1.1368683772161603E-13">God decides to 'make' Jesus 'guilty' - this also happens sometimes in human law<y:LabelModel>
               <y:SmartNodeLabelModel distance="4.0"/>
             </y:LabelModel>
             <y:ModelParameter>
@@ -70,7 +70,7 @@
         <y:ShapeNode>
           <y:Geometry height="179.43310993172497" width="394.7715768980911" x="-560.0886699216911" y="1439.5845181685406"/>
           <y:Fill hasColor="false" transparent="false"/>
-          <y:BorderStyle color="#000000" raised="false" type="line" width="1.0"/>
+          <y:BorderStyle color="#000000" raised="false" type="dashed" width="2.0"/>
           <y:NodeLabel alignment="center" autoSizePolicy="node_size" configuration="CroppingLabel" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="179.43310993172497" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="bottom" visible="true" width="394.7715768980911" x="0.0" y="1.1368683772161603E-13">Again, this is done because God just chooses to do so (as our Ruler and Judge), and because Jesus chooses to stand in our place, 'pretending' (seriously) to be us.<y:LabelModel>
               <y:SmartNodeLabelModel distance="4.0"/>
             </y:LabelModel>
@@ -1157,7 +1157,7 @@
         </y:PolyLineEdge>
       </data>
     </edge>
-    <edge id="e41" source="n30" target="n2">
+    <edge id="e41" source="n30" target="n1">
       <data key="d10">
         <y:PolyLineEdge>
           <y:Path sx="0.0" sy="0.0" tx="0.0" ty="0.0"/>
@@ -1167,7 +1167,7 @@
         </y:PolyLineEdge>
       </data>
     </edge>
-    <edge id="e42" source="n39" target="n2">
+    <edge id="e42" source="n39" target="n1">
       <data key="d10">
         <y:PolyLineEdge>
           <y:Path sx="0.0" sy="0.0" tx="0.0" ty="0.0"/>
@@ -1177,7 +1177,7 @@
         </y:PolyLineEdge>
       </data>
     </edge>
-    <edge id="e43" source="n39" target="n2">
+    <edge id="e43" source="n39" target="n1">
       <data key="d10">
         <y:PolyLineEdge>
           <y:Path sx="0.0" sy="0.0" tx="0.0" ty="0.0"/>
@@ -1187,7 +1187,7 @@
         </y:PolyLineEdge>
       </data>
     </edge>
-    <edge id="e44" source="n39" target="n2">
+    <edge id="e44" source="n39" target="n1">
       <data key="d10">
         <y:PolyLineEdge>
           <y:Path sx="0.0" sy="0.0" tx="0.0" ty="0.0"/>
@@ -1197,7 +1197,7 @@
         </y:PolyLineEdge>
       </data>
     </edge>
-    <edge id="e45" source="n39" target="n1">
+    <edge id="e45" source="n39" target="n0">
       <data key="d10">
         <y:PolyLineEdge>
           <y:Path sx="0.0" sy="0.0" tx="0.0" ty="0.0"/>
@@ -1207,7 +1207,7 @@
         </y:PolyLineEdge>
       </data>
     </edge>
-    <edge id="e46" source="n39" target="n2">
+    <edge id="e46" source="n39" target="n1">
       <data key="d10">
         <y:PolyLineEdge>
           <y:Path sx="0.0" sy="0.0" tx="0.0" ty="0.0"/>
@@ -1217,7 +1217,7 @@
         </y:PolyLineEdge>
       </data>
     </edge>
-    <edge id="e47" source="n39" target="n1">
+    <edge id="e47" source="n39" target="n0">
       <data key="d10">
         <y:PolyLineEdge>
           <y:Path sx="0.0" sy="0.0" tx="0.0" ty="0.0"/>
@@ -1227,7 +1227,7 @@
         </y:PolyLineEdge>
       </data>
     </edge>
-    <edge id="e48" source="n39" target="n1">
+    <edge id="e48" source="n39" target="n0">
       <data key="d10">
         <y:PolyLineEdge>
           <y:Path sx="0.0" sy="0.0" tx="0.0" ty="0.0"/>
@@ -1257,7 +1257,7 @@
         </y:PolyLineEdge>
       </data>
     </edge>
-    <edge id="e51" source="n39" target="n1">
+    <edge id="e51" source="n39" target="n0">
       <data key="d10">
         <y:PolyLineEdge>
           <y:Path sx="0.0" sy="0.0" tx="0.0" ty="0.0"/>
