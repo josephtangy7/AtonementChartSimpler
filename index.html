@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html>
+
+  <head>
+    <script src="svg-pan-zoom.js"></script>
+      <script src="jquery.min.js"></script>
+      
+  </head>
+
+  <body style="background-color:lightgrey;">
+    <h1>Atonement Flowchart by Joseph Tang (based on William Lane Craig's work)</h1>
+    
+      
+
+      <div id="container" >
+          <object id="AtonementChart" type="image/svg+xml" data="AtonementFlowchart2Simplified.svg"
+                  style="width:95%;height:88vmin;border:2px solid blue; position:absolute; left:2.5%; background-color:darkgrey;">
+              Your browser does not support SVG
+          </object>
+      </div>
+
+      <!--style="width:95%;height:88vmin;border:2px solid blue; position:absolute; left:2.5%; background-color:darkgrey;"-->
+
+    <script>
+
+        document.getElementById('AtonementChart').addEventListener('load', function () {
+            // Will get called after embed element was loaded
+            var panZoom = window.panZoom = svgPanZoom(document.getElementById('AtonementChart'), {
+                zoomEnabled: true,
+                controlIconsEnabled: true,
+                fit: 1,
+                center: 1
+            });
+        });
+
+        $(window).resize(function () {
+            panZoom.resize();
+            panZoom.fit();
+            panZoom.center();
+        });
+      
+    </script>
+
+  </body>
+
+</html>
