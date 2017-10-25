@@ -71,7 +71,7 @@
           <y:Geometry height="179.43310993172497" width="394.7715768980911" x="-560.0886699216911" y="1439.5845181685406"/>
           <y:Fill hasColor="false" transparent="false"/>
           <y:BorderStyle color="#000000" raised="false" type="dashed" width="2.0"/>
-          <y:NodeLabel alignment="center" autoSizePolicy="node_size" configuration="CroppingLabel" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="179.43310993172497" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="bottom" visible="true" width="394.7715768980911" x="0.0" y="1.1368683772161603E-13">Again, this is done because God just chooses to do so (as our Ruler and Judge), and because Jesus chooses to stand in our place, 'pretending' (seriously) to be us.<y:LabelModel>
+          <y:NodeLabel alignment="center" autoSizePolicy="node_size" configuration="CroppingLabel" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="179.43310993172497" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="bottom" visible="true" width="394.7715768980911" x="0.0" y="1.1368683772161603E-13">Again, this is done because God just chooses to do so (as our Ruler and Judge), and because Jesus chooses to stand in our place, 'pretending' (though in a serious way) to 'be' us.<y:LabelModel>
               <y:SmartNodeLabelModel distance="4.0"/>
             </y:LabelModel>
             <y:ModelParameter>
