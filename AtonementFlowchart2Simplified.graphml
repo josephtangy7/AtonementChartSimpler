@@ -425,10 +425,10 @@
     <node id="n24">
       <data key="d6">
         <y:ShapeNode>
-          <y:Geometry height="69.32749549796802" width="232.4253680012879" x="-15.99356562404978" y="577.7461046629264"/>
+          <y:Geometry height="80.61068130912247" width="304.4774213346212" x="-88.04561895738311" y="577.7461046629264"/>
           <y:Fill color="#FFCC00" transparent="false"/>
           <y:BorderStyle color="#000000" raised="false" type="line" width="1.0"/>
-          <y:NodeLabel alignment="center" autoSizePolicy="node_size" configuration="CroppingLabel" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="69.32749549796802" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="bottom" visible="true" width="232.4253680012879" x="0.0" y="-1.1368683772161603E-13">Because God totally holy and just, he had to punish sin.  Sin ALWAYS deserves some form of punishment.<y:LabelModel>
+          <y:NodeLabel alignment="center" autoSizePolicy="node_size" configuration="CroppingLabel" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="80.61068130912247" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="bottom" visible="true" width="304.4774213346212" x="0.0" y="-1.1368683772161603E-13">Because God totally holy and just, he had to punish sin.  Sin ALWAYS deserves some form of punishment, and this form of punishment must 'fit' or be 'fair' to what the sin or crime deserves.<y:LabelModel>
               <y:SmartNodeLabelModel distance="4.0"/>
             </y:LabelModel>
             <y:ModelParameter>
@@ -459,10 +459,10 @@
     <node id="n26">
       <data key="d6">
         <y:ShapeNode>
-          <y:Geometry height="82.42879257216123" width="244.40285219176417" x="-75.55831928345839" y="892.3706281687585"/>
+          <y:Geometry height="66.35786252302307" width="194.31237790476195" x="-75.55831928345839" y="884.4303003131347"/>
           <y:Fill color="#FFCC00" transparent="false"/>
           <y:BorderStyle color="#000000" raised="false" type="line" width="1.0"/>
-          <y:NodeLabel alignment="center" autoSizePolicy="node_width" configuration="CroppingLabel" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="21.09375" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="bottom" visible="true" width="244.40285219176417" x="0.0" y="30.667521286080614">Did God punish Jesus?<y:LabelModel>
+          <y:NodeLabel alignment="center" autoSizePolicy="node_width" configuration="CroppingLabel" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="21.09375" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="bottom" visible="true" width="194.31237790476195" x="0.0" y="22.63205626151148">Did God punish Jesus?<y:LabelModel>
               <y:SmartNodeLabelModel distance="4.0"/>
             </y:LabelModel>
             <y:ModelParameter>
