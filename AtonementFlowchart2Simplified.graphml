@@ -425,10 +425,10 @@
     <node id="n24">
       <data key="d6">
         <y:ShapeNode>
-          <y:Geometry height="80.61068130912247" width="304.4774213346212" x="-88.04561895738311" y="577.7461046629264"/>
+          <y:Geometry height="69.3274954979679" width="304.4774213346212" x="-88.04561895738311" y="577.7461046629264"/>
           <y:Fill color="#FFCC00" transparent="false"/>
           <y:BorderStyle color="#000000" raised="false" type="line" width="1.0"/>
-          <y:NodeLabel alignment="center" autoSizePolicy="node_size" configuration="CroppingLabel" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="80.61068130912247" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="bottom" visible="true" width="304.4774213346212" x="0.0" y="-1.1368683772161603E-13">Because God totally holy and just, he had to punish sin.  Sin ALWAYS deserves some form of punishment, and this form of punishment must 'fit' or be 'fair' to what the sin or crime deserves.<y:LabelModel>
+          <y:NodeLabel alignment="center" autoSizePolicy="node_size" configuration="CroppingLabel" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="69.3274954979679" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="bottom" visible="true" width="304.4774213346212" x="0.0" y="0.0">Because God totally holy and just, he had to punish sin.  Sin ALWAYS deserves some form of punishment, and this form of punishment must 'fit' or be 'fair' to what the sin or crime deserves.<y:LabelModel>
               <y:SmartNodeLabelModel distance="4.0"/>
             </y:LabelModel>
             <y:ModelParameter>
@@ -442,10 +442,10 @@
     <node id="n25">
       <data key="d6">
         <y:ShapeNode>
-          <y:Geometry height="60.98706071929928" width="310.0" x="-281.3921255282586" y="2034.2215651762772"/>
+          <y:Geometry height="48.37211853180088" width="310.0" x="-281.3921255282586" y="2034.2215651762772"/>
           <y:Fill color="#FFCC00" transparent="false"/>
           <y:BorderStyle color="#000000" raised="false" type="line" width="1.0"/>
-          <y:NodeLabel alignment="center" autoSizePolicy="node_size" configuration="CroppingLabel" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="60.98706071929928" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="bottom" visible="true" width="310.0" x="0.0" y="-4.547473508864641E-13">Sinners are now children of God, and the Holy Spirit can enter someone and make him a new person!<y:LabelModel>
+          <y:NodeLabel alignment="center" autoSizePolicy="node_size" configuration="CroppingLabel" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="48.37211853180088" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="bottom" visible="true" width="310.0" x="0.0" y="0.0">Sinners are now children of God, and the Holy Spirit can enter someone and make him a new person!<y:LabelModel>
               <y:SmartNodeLabelModel distance="4.0"/>
             </y:LabelModel>
             <y:ModelParameter>
@@ -544,10 +544,10 @@
     <node id="n31">
       <data key="d6">
         <y:ShapeNode>
-          <y:Geometry height="53.308894882689174" width="442.18156778367955" x="-560.0886699216911" y="1778.3423378398247"/>
+          <y:Geometry height="38.601599999999735" width="442.18156778367955" x="-560.0886699216911" y="1778.3423378398247"/>
           <y:Fill color="#FFCC00" transparent="false"/>
           <y:BorderStyle color="#000000" raised="false" type="line" width="1.0"/>
-          <y:NodeLabel alignment="center" autoSizePolicy="node_size" configuration="CroppingLabel" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="53.308894882689174" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="bottom" visible="true" width="442.18156778367955" x="0.0" y="-2.2737367544323206E-13">Sins have now been punished, we're no longer guilty so we no longer deserve punishment, and God also decides to 'see' us as good and righteous as Jesus is.<y:LabelModel>
+          <y:NodeLabel alignment="center" autoSizePolicy="node_size" configuration="CroppingLabel" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="38.601599999999735" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="bottom" visible="true" width="442.18156778367955" x="0.0" y="2.2737367544323206E-13">Sins have now been punished, we're no longer guilty so we no longer deserve punishment, and God also decides to 'see' us as good and righteous as Jesus is.<y:LabelModel>
               <y:SmartNodeLabelModel distance="4.0"/>
             </y:LabelModel>
             <y:ModelParameter>
@@ -564,7 +564,7 @@
           <y:Geometry height="84.81619833397826" width="570.4406532005685" x="-324.80054736663806" y="1900.5862521371791"/>
           <y:Fill color="#FFCC00" transparent="false"/>
           <y:BorderStyle color="#000000" raised="false" type="line" width="1.0"/>
-          <y:NodeLabel alignment="center" autoSizePolicy="node_size" configuration="CroppingLabel" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="84.81619833397826" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="bottom" visible="true" width="570.4406532005685" x="0.0" y="0.0">Other good reasons why Jesus died for sinners - it shows how terrible sin is and how much God hates it.  Especially when Jesus suffered exactly what the punishment of sin deserves.  It also shows how much God loves us when Jesus died in our place.  Maybe even more people would come to believe in and love God because of what Jesus did.  His death helps give us courage too when we are feeling sad, or facing death.<y:LabelModel>
+          <y:NodeLabel alignment="center" autoSizePolicy="node_size" configuration="CroppingLabel" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="84.81619833397826" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="bottom" visible="true" width="570.4406532005685" x="0.0" y="0.0">Other good reasons why God chose (or even HAD to do it) this way - it shows how terrible sin is and how much God hates it.  Especially when Jesus suffered exactly what the punishment of sin deserves.  It also shows how much God loves us when Jesus died in our place.  Maybe even more people would come to believe in and love God because of what Jesus did.  His death helps give us courage too when we are feeling sad, or facing death.<y:LabelModel>
               <y:SmartNodeLabelModel distance="4.0"/>
             </y:LabelModel>
             <y:ModelParameter>
@@ -1130,7 +1130,7 @@
     <edge id="e38" source="n31" target="n32">
       <data key="d10">
         <y:PolyLineEdge>
-          <y:Path sx="103.36688457841856" sy="-4.84102150422214" tx="-127.04580735433521" ty="7.971026314879282"/>
+          <y:Path sx="103.36688457841856" sy="-3.5054408107428645" tx="-127.04580735433521" ty="7.971026314879282"/>
           <y:LineStyle color="#000000" type="line" width="1.0"/>
           <y:Arrows source="none" target="standard"/>
           <y:BendStyle smoothed="false"/>
@@ -1140,7 +1140,7 @@
     <edge id="e39" source="n32" target="n25">
       <data key="d10">
         <y:PolyLineEdge>
-          <y:Path sx="0.0" sy="0.0" tx="86.81190476190477" ty="-1.9120197384058883"/>
+          <y:Path sx="0.0" sy="0.0" tx="86.81190476190477" ty="-1.5165257077563123"/>
           <y:LineStyle color="#000000" type="line" width="1.0"/>
           <y:Arrows source="none" target="standard"/>
           <y:BendStyle smoothed="false"/>
@@ -1271,7 +1271,7 @@
       <data key="d10">
         <y:PolyLineEdge>
           <y:Path sx="0.0" sy="0.0" tx="0.0" ty="0.0">
-            <y:Point x="127.55404706521992" y="1804.9967852811692"/>
+            <y:Point x="127.55404706521992" y="1797.6431378398247"/>
           </y:Path>
           <y:LineStyle color="#000000" type="line" width="1.0"/>
           <y:Arrows source="none" target="standard"/>
