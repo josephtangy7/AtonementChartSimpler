@@ -428,7 +428,7 @@
           <y:Geometry height="69.3274954979679" width="304.4774213346212" x="-88.04561895738311" y="577.7461046629264"/>
           <y:Fill color="#FFCC00" transparent="false"/>
           <y:BorderStyle color="#000000" raised="false" type="line" width="1.0"/>
-          <y:NodeLabel alignment="center" autoSizePolicy="node_size" configuration="CroppingLabel" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="69.3274954979679" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="bottom" visible="true" width="304.4774213346212" x="0.0" y="0.0">Because God totally holy and just, he had to punish sin.  Sin ALWAYS deserves some form of punishment, and this form of punishment must 'fit' or be 'fair' to what the sin or crime deserves.<y:LabelModel>
+          <y:NodeLabel alignment="center" autoSizePolicy="node_size" configuration="CroppingLabel" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="69.3274954979679" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="bottom" visible="true" width="304.4774213346212" x="0.0" y="0.0">Because God is totally holy and just, he had to punish sin.  Sin ALWAYS deserves some form of punishment, and this form of punishment must 'fit' or be 'fair' to what the sin or crime deserves.<y:LabelModel>
               <y:SmartNodeLabelModel distance="4.0"/>
             </y:LabelModel>
             <y:ModelParameter>
