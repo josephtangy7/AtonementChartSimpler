@@ -292,7 +292,7 @@
           <y:Geometry height="82.42879257216123" width="214.0" x="756.3234541666661" y="1375.1169389681995"/>
           <y:Fill color="#FFCC00" transparent="false"/>
           <y:BorderStyle color="#000000" raised="false" type="line" width="1.0"/>
-          <y:NodeLabel alignment="center" autoSizePolicy="node_size" configuration="CroppingLabel" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="82.42879257216123" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="bottom" visible="true" width="214.0" x="0.0" y="5.406313509781512">He paid for all sins, but you still need to ask him for forgiveness!  Also as your future sins don't even exist, he can't literally forgive them!<y:LabelModel>
+          <y:NodeLabel alignment="center" autoSizePolicy="node_size" configuration="CroppingLabel" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="82.42879257216123" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="bottom" visible="true" width="214.0" x="0.0" y="5.406313509781512">He paid for all sins, but you still need to ask him for forgiveness!  Also as your future sins don't even exist yet, there's nothing to forgive!<y:LabelModel>
               <y:SmartNodeLabelModel distance="4.0"/>
             </y:LabelModel>
             <y:ModelParameter>
