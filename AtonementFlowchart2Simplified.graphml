@@ -54,7 +54,7 @@
           <y:Geometry height="509.5743929201632" width="459.67278824643984" x="-594.6454656939818" y="1169.797321708459"/>
           <y:Fill hasColor="false" transparent="false"/>
           <y:BorderStyle color="#000000" raised="false" type="dashed" width="2.0"/>
-          <y:NodeLabel alignment="center" autoSizePolicy="node_size" configuration="CroppingLabel" fontFamily="Dialog" fontSize="20" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="509.5743929201632" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="bottom" visible="true" width="459.67278824643984" x="0.0" y="-1.1368683772161603E-13">God decides to 'make' Jesus 'guilty' - this also happens sometimes in human law<y:LabelModel>
+          <y:NodeLabel alignment="center" autoSizePolicy="node_size" configuration="CroppingLabel" fontFamily="Dialog" fontSize="20" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="509.5743929201632" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="bottom" visible="true" width="459.67278824643984" x="0.0" y="-1.1368683772161603E-13">God decides to 'see' Jesus as 'guilty' - this also happens sometimes in human law<y:LabelModel>
               <y:SmartNodeLabelModel distance="4.0"/>
             </y:LabelModel>
             <y:ModelParameter>
@@ -71,7 +71,7 @@
           <y:Geometry height="179.43310993172497" width="394.7715768980911" x="-560.0886699216911" y="1439.5845181685406"/>
           <y:Fill hasColor="false" transparent="false"/>
           <y:BorderStyle color="#000000" raised="false" type="dashed" width="2.0"/>
-          <y:NodeLabel alignment="center" autoSizePolicy="node_size" configuration="CroppingLabel" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="179.43310993172497" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="bottom" visible="true" width="394.7715768980911" x="0.0" y="1.1368683772161603E-13">Again, this is done because God just chooses to do so (as our Ruler and Judge), and because Jesus chooses to stand in our place, 'pretending' (though in a serious way) to 'be' us.<y:LabelModel>
+          <y:NodeLabel alignment="center" autoSizePolicy="node_size" configuration="CroppingLabel" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="179.43310993172497" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="bottom" visible="true" width="394.7715768980911" x="0.0" y="1.1368683772161603E-13">Again, this is done because God just chooses to do so (as our Ruler and Judge), and because Jesus chooses to stand in our place, 'pretending' (though in a serious way) to 'be like' us, and maybe even because God HAS to punish sins, but can only do that by punishing them THROUGH punishing SOMEONE.<y:LabelModel>
               <y:SmartNodeLabelModel distance="4.0"/>
             </y:LabelModel>
             <y:ModelParameter>
@@ -510,7 +510,7 @@
     <node id="n29">
       <data key="d6">
         <y:ShapeNode>
-          <y:Geometry height="38.60159999999985" width="158.78786460451283" x="-517.2141342222801" y="1531.835990737061"/>
+          <y:Geometry height="38.60159999999985" width="158.78786460451283" x="-517.2141342222801" y="1542.546799599511"/>
           <y:Fill color="#FFCC00" transparent="false"/>
           <y:BorderStyle color="#000000" raised="false" type="line" width="1.0"/>
           <y:NodeLabel alignment="center" autoSizePolicy="node_size" configuration="CroppingLabel" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="38.60159999999985" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="bottom" visible="true" width="158.78786460451283" x="0.0" y="1.1368683772161603E-13">God 'puts' the same guilt we have also on Jesus<y:LabelModel>
@@ -615,7 +615,7 @@
           <y:Geometry height="49.23539087719291" width="139.11236697247705" x="-494.83125455914967" y="1360.3491272913477"/>
           <y:Fill color="#FFCC00" transparent="false"/>
           <y:BorderStyle color="#000000" raised="false" type="line" width="1.0"/>
-          <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="18.701171875" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="bottom" visible="true" width="118.064453125" x="10.523956923738524" y="15.267109501096456">Being a sinner like us<y:LabelModel>
+          <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="18.701171875" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="bottom" visible="true" width="122.646484375" x="8.232941298738524" y="15.267109501096456">Being a 'sinner' like us<y:LabelModel>
               <y:SmartNodeLabelModel distance="4.0"/>
             </y:LabelModel>
             <y:ModelParameter>
@@ -646,7 +646,7 @@
     <node id="n37">
       <data key="d6">
         <y:ShapeNode>
-          <y:Geometry height="60.023217724899155" width="153.40984954128425" x="-327.8479263677929" y="1531.8359907370611"/>
+          <y:Geometry height="60.023217724899155" width="153.40984954128425" x="-327.8479263677929" y="1542.546799599511"/>
           <y:Fill color="#FFCC00" transparent="false"/>
           <y:BorderStyle color="#000000" raised="false" type="line" width="1.0"/>
           <y:NodeLabel alignment="center" autoSizePolicy="node_size" configuration="CroppingLabel" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="60.023217724899155" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="bottom" visible="true" width="153.40984954128425" x="0.0" y="-1.1368683772161603E-13">God 'pretends' that it is Jesus who did the evil things we did<y:LabelModel>
