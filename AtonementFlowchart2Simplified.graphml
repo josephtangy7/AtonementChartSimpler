@@ -71,7 +71,7 @@
           <y:Geometry height="179.43310993172497" width="394.7715768980911" x="-560.0886699216911" y="1439.5845181685406"/>
           <y:Fill hasColor="false" transparent="false"/>
           <y:BorderStyle color="#000000" raised="false" type="dashed" width="2.0"/>
-          <y:NodeLabel alignment="center" autoSizePolicy="node_size" configuration="CroppingLabel" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="179.43310993172497" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="bottom" visible="true" width="394.7715768980911" x="0.0" y="1.1368683772161603E-13">Again, this is done because God just chooses to do so (as our Ruler and Judge), and because Jesus chooses to stand in our place, 'pretending' (though in a serious way) to 'be like' us, and maybe even because God HAS to punish sins, but can only do that by punishing them THROUGH punishing SOMEONE.<y:LabelModel>
+          <y:NodeLabel alignment="center" autoSizePolicy="node_size" configuration="CroppingLabel" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="179.43310993172497" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="bottom" visible="true" width="394.7715768980911" x="0.0" y="1.1368683772161603E-13">Again, this is done because God just chooses to do so (as our Ruler and Judge), and because Jesus chooses to stand in our place, 'pretending' (though in a serious way) to 'be like' us, and maybe even because God HAS to punish sins, but can only do that by punishing them THROUGH punishing SOMEONE who is first guilty.<y:LabelModel>
               <y:SmartNodeLabelModel distance="4.0"/>
             </y:LabelModel>
             <y:ModelParameter>
@@ -428,7 +428,7 @@
           <y:Geometry height="69.3274954979679" width="304.4774213346212" x="-88.04561895738311" y="577.7461046629264"/>
           <y:Fill color="#FFCC00" transparent="false"/>
           <y:BorderStyle color="#000000" raised="false" type="line" width="1.0"/>
-          <y:NodeLabel alignment="center" autoSizePolicy="node_size" configuration="CroppingLabel" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="69.3274954979679" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="bottom" visible="true" width="304.4774213346212" x="0.0" y="0.0">Because God is totally holy and just, he had to punish sin.  Sin ALWAYS deserves some form of punishment, and this form of punishment must 'fit' or be 'fair' to what the sin or crime deserves.<y:LabelModel>
+          <y:NodeLabel alignment="center" autoSizePolicy="node_size" configuration="CroppingLabel" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="69.3274954979679" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="bottom" visible="true" width="304.4774213346212" x="0.0" y="0.0">Because God is totally holy and just, he had to punish sin.  Sin ALWAYS deserves some form of punishment to the guilty, and this form of punishment must 'fit' or be 'fair' to what the sin or crime deserves.<y:LabelModel>
               <y:SmartNodeLabelModel distance="4.0"/>
             </y:LabelModel>
             <y:ModelParameter>
@@ -547,7 +547,7 @@
           <y:Geometry height="38.601599999999735" width="238.82531383872532" x="-418.3272419284692" y="1761.936824445329"/>
           <y:Fill color="#FFCC00" transparent="false"/>
           <y:BorderStyle color="#000000" raised="false" type="line" width="1.0"/>
-          <y:NodeLabel alignment="center" autoSizePolicy="node_size" configuration="CroppingLabel" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="38.601599999999735" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="bottom" visible="true" width="238.82531383872532" x="-5.6843418860808015E-14" y="2.2737367544323206E-13">God's justice is satisfied and he gets to 'see' us as good and righteous as Jesus is.<y:LabelModel>
+          <y:NodeLabel alignment="center" autoSizePolicy="node_size" configuration="CroppingLabel" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="38.601599999999735" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="bottom" visible="true" width="238.82531383872532" x="0.0" y="2.2737367544323206E-13">God's justice is satisfied and he gets to 'see' us as good and righteous as Jesus is.<y:LabelModel>
               <y:SmartNodeLabelModel distance="4.0"/>
             </y:LabelModel>
             <y:ModelParameter>
@@ -1287,7 +1287,6 @@
       </data>
     </edge>
     <edge id="e52" source="n31" target="n0">
-      <data key="d9"/>
       <data key="d10">
         <y:PolyLineEdge>
           <y:Path sx="0.0" sy="0.0" tx="0.0" ty="0.0"/>
@@ -1298,7 +1297,6 @@
       </data>
     </edge>
     <edge id="e53" source="n31" target="n43">
-      <data key="d9"/>
       <data key="d10">
         <y:PolyLineEdge>
           <y:Path sx="0.0" sy="0.0" tx="0.0" ty="0.0"/>
@@ -1309,7 +1307,6 @@
       </data>
     </edge>
     <edge id="e54" source="n43" target="n32">
-      <data key="d9"/>
       <data key="d10">
         <y:PolyLineEdge>
           <y:Path sx="0.0" sy="0.0" tx="-146.0962904519946" ty="-10.243449322515062"/>
@@ -1320,7 +1317,6 @@
       </data>
     </edge>
     <edge id="e55" source="n39" target="n43">
-      <data key="d9"/>
       <data key="d10">
         <y:PolyLineEdge>
           <y:Path sx="0.0" sy="0.0" tx="0.0" ty="0.0">
@@ -1333,7 +1329,6 @@
       </data>
     </edge>
     <edge id="e56" source="n32" target="n25">
-      <data key="d9"/>
       <data key="d10">
         <y:PolyLineEdge>
           <y:Path sx="0.0" sy="0.0" tx="0.0" ty="0.0"/>
